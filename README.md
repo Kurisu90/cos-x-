@@ -1,1 +1,1 @@
-# Graph-of-sin-x-
+# cos(x)
